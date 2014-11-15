@@ -10,6 +10,9 @@ Honolulu, Hawaii, 2008
 Goal points :
 
 -> to complete the code.
+
 -> to implement on Ardrone Parrot.
+
 -> to compare simulation and test results
+
 -> to integrate with the octocopter and use mavros
